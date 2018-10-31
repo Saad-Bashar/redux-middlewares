@@ -1,4 +1,4 @@
-# React Middlewares
+# React-Redux Middlewares
 
 A simple react project demonstrating the work of middlewares.
 
